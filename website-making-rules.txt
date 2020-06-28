@@ -1,0 +1,26 @@
+😍️DEFINE YOUR PROJECT
+
+-Define the goal of your project
+-Define your audience
+-Design with your goal and audience in mind
+-Plan your content: text, images, videos, icons etc.
+-Start thinking about visual hierarchy
+-Define the navigation
+-Define the site structure if it's a bigger project
+-Get inspired adn think about your design
+-Get the ideas out of your head: sketch your ideas before you start designing
+-Make as many sketches as you want, but don't make it perfect
+-Never start designing without having an idea of what you want to build
+-Design your website using guidelines and tips you've learned in the webdesign section.
+-Do that using HTML and CSS: designing in the browser
+-Use sketches, content and planning decisions you've made in steps 1,2 adn 3.
+-This step is the biggest part of building a website, but: all steps are important!
+
+-Optimize performance: site speed
+-Search engine optimisation (SEO)
+
+-All you need for launching is a webserver that will host your website and deliver it to world
+
+-Launching is not the end of the story
+-Monitor your users behavior and change your website if necessary
+-Update your content regularly: blog
