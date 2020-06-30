@@ -22,4 +22,4 @@ A modern, HTML5-ready alternative to CSS resets [Link;](https://necolas.github.i
 
 ---$$$---$$$---$$$
 ## fluid grid for responsive web design
-Download the fluid grid for responsive web design (more on that later) from this link. [Link;](https://necolas.github.io/normalize.css/)
+Download the fluid grid for responsive web design (more on that later) from this link. [Link;](https://drive.google.com/file/d/0B-L1rGXV4PtMV0c4MDNfX2xvdk0/view)
