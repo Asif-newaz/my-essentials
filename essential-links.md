@@ -16,6 +16,10 @@ Emmet is an essential tool for writing HTML. This is a very handy cheat sheet to
 
 
 ---$$$---$$$---$$$
-### Normalize.css Download link:
+## Normalize.css Download link:
 A modern, HTML5-ready alternative to CSS resets [Link;](https://necolas.github.io/normalize.css/)
 
+
+---$$$---$$$---$$$
+## fluid grid for responsive web design
+Download the fluid grid for responsive web design (more on that later) from this link. [Link;](https://necolas.github.io/normalize.css/)
