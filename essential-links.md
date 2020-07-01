@@ -23,3 +23,8 @@ A modern, HTML5-ready alternative to CSS resets [Link;](https://necolas.github.i
 ---$$$---$$$---$$$
 ## fluid grid for responsive web design
 Download the fluid grid for responsive web design (more on that later) from this link. [Link;](https://drive.google.com/file/d/0B-L1rGXV4PtMV0c4MDNfX2xvdk0/view)
+
+
+---$$$---$$$---$$$
+## Flat UI colors
+280 handpicked colors. Flat UI Colors 2 features 13 more color palettes. Collaborating with 13 designers around the world, a total set of 280 colors are on your command for COPY / PASTE for your next project, design, presentation. [Link;](https://flatuicolors.com/)
