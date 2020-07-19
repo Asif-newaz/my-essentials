@@ -43,8 +43,19 @@ Download the fluid grid for responsive web design (more on that later) from this
 ||---$$$---$$$---$$$---||
 ## WORKING  WITH  ICONS
 ### Ion Icons
-Beau.ful  icon  font [Link;](https://ionicons.com/)
+Beautiful  icon  font [Link;](https://ionicons.com/)
 
 ||---$$$---$$$---$$$---||
+
+
+
+||---$$$---$$$---$$$---||
+## Get the Animation effect on the website
+### Animate.css
+Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints. [Link;](https://animate.style/)
+||---$$$---$$$---$$$---||
+
+
+
 
 
