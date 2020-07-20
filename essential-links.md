@@ -71,3 +71,12 @@ Operator precedence determines how operators are parsed concerning each other. O
 This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality. [Link;](https://imagecompressor.com/)
 ||---$$$---$$$---$$$---||
 
+
+
+||---$$$---$$$---$$$---||
+## To minify javaScript and css code
+### Minify CSS
+Free CSS Compressor and Free Javascript Compressor [Link;](http://www.minifycss.com/)
+||---$$$---$$$---$$$---||
+
+
