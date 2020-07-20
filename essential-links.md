@@ -57,5 +57,9 @@ Animate.css is a library of ready-to-use, cross-browser animations for use in yo
 
 
 
-
+||---$$$---$$$---$$$---||
+## To check JavaScript operator precedence
+### MDN web docs
+Operator precedence determines how operators are parsed concerning each other. Operators with higher precedence become the operands of operators with lower precedence. [Link;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+||---$$$---$$$---$$$---||
 
