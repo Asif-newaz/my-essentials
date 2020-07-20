@@ -63,3 +63,11 @@ Animate.css is a library of ready-to-use, cross-browser animations for use in yo
 Operator precedence determines how operators are parsed concerning each other. Operators with higher precedence become the operands of operators with lower precedence. [Link;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 ||---$$$---$$$---$$$---||
 
+
+
+||---$$$---$$$---$$$---||
+## To reduce the size of image
+### Optimizilla
+This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality. [Link;](https://imagecompressor.com/)
+||---$$$---$$$---$$$---||
+
