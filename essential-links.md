@@ -80,3 +80,12 @@ Free CSS Compressor and Free Javascript Compressor [Link;](http://www.minifycss.
 ||---$$$---$$$---$$$---||
 
 
+
+||---$$$---$$$---$$$---||
+## To check markup validation
+### Markup validation service
+This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc. If you wish to validate specific content such as RSS/Atom feeds or CSS stylesheets, MobileOK content, or to find broken links, there are other validators and tools available. As an alternative you can also try our non-DTD-based validator. [Link;](https://validator.w3.org/)
+||---$$$---$$$---$$$---||
+
+
+
