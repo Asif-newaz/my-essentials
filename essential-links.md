@@ -89,3 +89,11 @@ This validator checks the markup validity of Web documents in HTML, XHTML, SMIL,
 
 
 
+||---$$$---$$$---$$$---||
+## To make any shape of the box with CSS using clip-path
+### CSS clip-path maker
+The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source. [Link;](https://bennettfeely.com/clippy/)
+||---$$$---$$$---$$$---||
+
+
+
