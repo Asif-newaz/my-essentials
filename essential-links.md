@@ -17,6 +17,11 @@ Emmet is an essential tool for writing HTML. This is a very handy cheat sheet to
 ||---$$$---$$$---$$$---||
 
 
+
+
+
+#### **CSS part**
+
 ||---$$$---$$$---$$$---||
 ## Normalize.css Download link:
 A modern, HTML5-ready alternative to CSS resets [Link;](https://necolas.github.io/normalize.css/)
@@ -58,14 +63,6 @@ Animate.css is a library of ready-to-use, cross-browser animations for use in yo
 
 
 ||---$$$---$$$---$$$---||
-## To check JavaScript operator precedence
-### MDN web docs
-Operator precedence determines how operators are parsed concerning each other. Operators with higher precedence become the operands of operators with lower precedence. [Link;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-||---$$$---$$$---$$$---||
-
-
-
-||---$$$---$$$---$$$---||
 ## To reduce the size of image
 ### Optimizilla
 This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality. [Link;](https://imagecompressor.com/)
@@ -96,4 +93,21 @@ The clip-path property allows you to make complex shapes in CSS by clipping an e
 ||---$$$---$$$---$$$---||
 
 
+
+
+#### **JavaScript part**
+
+||---$$$---$$$---$$$---||
+## To check JavaScript operator precedence
+### MDN web docs
+Operator precedence determines how operators are parsed concerning each other. Operators with higher precedence become the operands of operators with lower precedence. [Link;](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+||---$$$---$$$---$$$---||
+
+
+
+||---$$$---$$$---$$$---||
+## JavaScript event reference
+### MDN web docs
+DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface, and may have additional custom fields and/or functions used to get additional information about what happened. [Link;](https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events)
+||---$$$---$$$---$$$---||
 
