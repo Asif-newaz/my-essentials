@@ -50,6 +50,8 @@ Download the fluid grid for responsive web design (more on that later) from this
 ### Ion Icons
 Beautiful  icon  font [Link;](https://ionicons.com/)
 
+### Linea Icon
+Linea: Featuring 750+ Free Icons [Link;](https://linea.io/)
 ||---$$$---$$$---$$$---||
 
 
