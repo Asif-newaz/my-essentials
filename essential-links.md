@@ -113,3 +113,28 @@ Operator precedence determines how operators are parsed concerning each other. O
 DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface, and may have additional custom fields and/or functions used to get additional information about what happened. [Link;](https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events)
 ||---$$$---$$$---$$$---||
 
+
+
+
+#### **Free Image and Video download part**
+
+
+||---$$$---$$$---$$$---||
+## To Download free vidoes for website
+### coverr
+Beautiful Free Stock Video Footage [Link;](https://coverr.co/)
+||---$$$---$$$---$$$---||
+
+
+||---$$$---$$$---$$$---||
+## To Download free images for website
+### unsplash
+Beautiful Free images [Link;](https://unsplash.com/)
+||---$$$---$$$---$$$---||
+
+
+||---$$$---$$$---$$$---||
+## To Download free images for website
+### pexels
+Beautiful Free images [Link;](https://www.pexels.com/)
+||---$$$---$$$---$$$---||
