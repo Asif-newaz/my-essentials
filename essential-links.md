@@ -60,6 +60,12 @@ Linea: Featuring 750+ Free Icons [Link;](https://linea.io/)
 ## Get the Animation effect on the website
 ### Animate.css
 Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints. [Link;](https://animate.style/)
+
+### Easing functions
+Easing functions specify the rate of change of a parameter over time. This page helps you choose the right easing function. [Link;](https://easings.net/)
+
+### Cubic Bezier
+It can be used to bring any cubic bezier effect. [Link;](https://cubic-bezier.com/#.22,.56,.84,.47)
 ||---$$$---$$$---$$$---||
 
 
