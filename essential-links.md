@@ -14,6 +14,9 @@ Codepen has become an essential tool for me to quickly test out some ideas or do
 
 ### Emmet Cheat Sheet
 Emmet is an essential tool for writing HTML. This is a very handy cheat sheet to get started. [Link;](https://docs.emmet.io/cheat-sheet/)
+
+### The browser for developers
+This site for viewing the output of different screens. So stop wasting time and speed up your development workflow. [Link;](https://sizzy.co/)
 ||---$$$---$$$---$$$---||
 
 
