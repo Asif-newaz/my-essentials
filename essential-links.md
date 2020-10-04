@@ -55,6 +55,9 @@ Beautiful  icon  font [Link;](https://ionicons.com/)
 
 ### Linea Icon
 Linea: Featuring 750+ Free Icons [Link;](https://linea.io/)
+
+### IcoMoon
+SVG icon free library. Pixel Perfect Icon Solutions [Link;](https://icomoon.io/) & https://icomoon.io/app/#/select
 ||---$$$---$$$---$$$---||
 
 
