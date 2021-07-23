@@ -17,6 +17,8 @@ Emmet is an essential tool for writing HTML. This is a very handy cheat sheet to
 ### The browser for developers
 This site for viewing the output of different screens. So stop wasting time and speed up your development workflow. [Link;](https://sizzy.co/)
 
+# **HTML, CSS and JavaScript part**
+## JONAS' RESOURCES FOR HAND-CRAFTING BEAUTIFUL AND PERFORMANT WEBSITES [Link;](https://codingheroes.io/resources/)                              
 
 # **CSS part**
 
